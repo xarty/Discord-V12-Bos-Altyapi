@@ -1,0 +1,22 @@
+{
+  "name": "discord-bos-altyapi",
+  "version": "0.0.1",
+  "description": "Boş Altyapı",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
