@@ -3,7 +3,7 @@
 
 
 
-Herhangi bir kurulum yapmanıza gerek yok, commands/ kısmına komutlarınızı ekleyebilirsiniz.
+Herhangi bir kurulum yapmanıza gerek yok, commands/ kısmına komutlarınızı ekleyebilirsiniz..
 
 
 
