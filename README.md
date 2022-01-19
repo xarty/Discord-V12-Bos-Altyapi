@@ -31,7 +31,7 @@ main.js / config.js
 
 
 
-**Not:** Eğer glitch kullanıyor iseniz start.bat'a ihtiyacınız yok fakat Atom ve Visual Studio gibi programlar kullanıyor iseniz botu aktif etmeniz için start.bat'a ihtiyacınız olucak.
+**Not:** start.bat botu başlatmanızı sağlar.
 
 
 
